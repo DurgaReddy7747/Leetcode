@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/DurgaReddy7747/Leetcode/tree/master/0053-maximum-subarray) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DurgaReddy7747/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
 |  |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/DurgaReddy7747/Leetcode/tree/master/0155-min-stack) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/DurgaReddy7747/Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/DurgaReddy7747/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
