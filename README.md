@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/DurgaReddy7747/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2413-smallest-even-multiple](https://github.com/DurgaReddy7747/Leetcode/tree/master/2413-smallest-even-multiple) |
 ## Number Theory
 |  |
